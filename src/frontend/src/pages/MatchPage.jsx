@@ -29,7 +29,7 @@ const MatchPage = () => {
     }
   });
   let matchNotfound = null;
-  console.log(matches);
+
   if (!matches || matches.length === 0) {
     matchNotfound = <h4>Matches not found</h4>;
   }
