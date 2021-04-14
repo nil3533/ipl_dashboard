@@ -1,0 +1,8 @@
+.TeamTile {
+  height: 70px;
+
+  text-align: center;
+  border-radius: 8px;
+  padding: 20px;
+  font-size: 10px;
+}

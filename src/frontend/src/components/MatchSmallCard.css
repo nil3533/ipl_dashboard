@@ -1,0 +1,7 @@
+.MatchSmallCard {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.MatchSmallCard .match-result {
+  margin-top: 10px;
+}
